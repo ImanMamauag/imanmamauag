@@ -6,7 +6,6 @@
 - 💬 Ask me about data cleaning, exploratory data analysis, dashboard building, or how to turn raw numbers into actionable insights.
 - 📫 How to reach me: i.mamauag@gmail.com
 - ⚡ Fun fact: I once spent hours cleaning a dataset for fun—turns out, I enjoy solving messy data puzzles as much as solving escape room challenges.
--->
 
 <!--
 **ImanMamauag/imanmamauag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
