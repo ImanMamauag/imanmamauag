@@ -1,6 +1,6 @@
 ## Hi there 👋
-My name is Iman, I’m a Data Analyst with a distinctive blend of IT, process improvement, systems analysis, and entrepreneurial experience!
-- 🔭 I’m currently working on my 90-day Data Analytics Job-Ready Plan. 
+My name is Iman, I’m a Data Analyst with a unique combination of IT, process improvement, systems analysis, and entrepreneurial experience!
+- 🔭 I’m currently working on my 90-Day Data Analytics Job-Ready Plan, where I’ll share each project along with the problems I tackle and the business insights I uncover.
 - 👯 I’m looking to collaborate on real-world data analysis projects, open-source analytics tools, or business intelligence dashboards.
 - 🤔 I’m looking for help with gaining hands-on experience in end-to-end data projects, especially in data engineering workflows and advanced analytics techniques.
 - 💬 Ask me about data cleaning, exploratory data analysis, dashboard building, or how to turn raw numbers into actionable insights.
