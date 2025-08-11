@@ -1,6 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on my 90-day Data Analytics Job-Ready Plan 
-- 🌱 I’m currently learning to create data analytics projects using SQL, Python, and Power BI to transform data into valuable business insights.
+- 🔭 I’m currently working on my 90-day Data Analytics Job-Ready Plan. 
 - 👯 I’m looking to collaborate on real-world data analysis projects, open-source analytics tools, or business intelligence dashboards.
 - 🤔 I’m looking for help with gaining hands-on experience in end-to-end data projects, especially in data engineering workflows and advanced analytics techniques.
 - 💬 Ask me about data cleaning, exploratory data analysis, dashboard building, or how to turn raw numbers into actionable insights.
